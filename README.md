@@ -38,7 +38,11 @@ The dashboard helps in identifying trends, top-performing categories, and high-r
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+
+![Dashboard](https://github.com/user-attachments/assets/71d151a2-4777-42b3-923d-9643cc22892b)
+
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/aa27c0bf-295f-4413-972d-07d6201c50af" />
+
 
 ---
 
