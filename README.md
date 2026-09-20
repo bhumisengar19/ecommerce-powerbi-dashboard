@@ -9,7 +9,6 @@ This project is a Power BI dashboard built to analyze customer behavior, sales p
 
 The dashboard helps in identifying trends, top-performing categories, and high-revenue locations.
 
----
 
 ## 🚀 Features
 
@@ -19,8 +18,6 @@ The dashboard helps in identifying trends, top-performing categories, and high-r
 * Revenue by Payment Method
 * Customer Distribution by City (Map)
 * Dynamic Insights using DAX measures
-
----
 
 ## 🛠 Tools & Technologies
 
